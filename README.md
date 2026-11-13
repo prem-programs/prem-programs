@@ -56,12 +56,6 @@ I actively contribute to open-source organizations, focusing on Python tooling, 
 - **Systems & DevOps:** Linux (Fedora/Wayland), Docker, Git, GitHub Actions
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Local--First_&_Open_Source-2ea44f?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/OS-Fedora_Linux-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="Fedora" />
-</p>
-<!--
 **prem-programs/prem-programs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
